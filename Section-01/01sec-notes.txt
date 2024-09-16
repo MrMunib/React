@@ -1,0 +1,43 @@
+Vite vs CRA
+
+
+Seekhty wkt hm VITE use krty hein instead of Create-react-app
+
+
+
+commands
+npm create vite@latest
+set the project name
+React > JavaScript > 
+
+Then run these commands
+
+> cd project-name
+> npm install
+> npm run dev
+
+
+
+
+> Jo cheezain body k andr cheye wo sb node modules mei hai
+
+
+
+> jo b hmary static assests hein wo sb "public" folder mei ain gy 
+
+> hm apy assests src folder k andr jo assests ka folder meein rkhain gy 
+
+
+
+
+> what is jsx
+> jsx is actually a very similar looking structure like html.
+<h1>hey</h1>         // html
+<h1>hey</h1>         // jsx
+
+jsx is a very similar looking structure like html but with super powers. Its looks like html but not really html. (So you can use logic in jsx)
+
+
+<h1>{2+2}</h1>    is mei logic likh skty hein 
+
+
