@@ -1,0 +1,8 @@
+state aik data hota hai, react is data ka khyal rkhta hai, jab bhi ye data change hota hai react page ko update krta hai 
+
+
+
+state koi bhi data hoskta hai jaisy k man lety hein k :
+    score = 0
+
+useState(0)
